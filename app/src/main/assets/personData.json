@@ -1,0 +1,32 @@
+[
+    {
+      "sex": "Male",
+      "name": "Ivan Ivanov",
+      "phone_number": 88005553535
+    },
+    {
+        "sex": "Female",
+        "name": "Lesya Sansoeva",
+        "phone_number": 87654321910
+    },
+    {
+        "sex": "Unknown",
+        "name": "Cringe Helicopter",
+        "phone_number": 82910928018
+    },
+    {
+        "sex": "Male",
+        "name": "Tugushev Damir",
+        "phone_number": 89777941885
+    },
+    {
+        "sex": "Unknown",
+        "name": "Dream Beast",
+        "phone_number": 89610884673
+    },
+    {
+        "sex": "Male",
+        "name": "Ashurali Ashurov",
+        "phone_number": 89107654321
+    }
+]
